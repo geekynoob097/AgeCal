@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24260491/README.md)
+[README.md](https://github.com/user-attachments/files/24260534/README.md)
 # AgeCal -- RESTful User API (Go + Fiber) {#agecal-restful-user-api-go-fiber}
 
 AgeCal is a clean, production-style RESTful API built using **Go** and
@@ -49,8 +49,7 @@ logging
     │
     ├── migrations/               # SQL migration files
     ├── go.mod
-    ├── go.sum
-    └── README.md
+    └── go.sum
 
 ## ⚙️ Setup Instructions {#setup-instructions}
 
